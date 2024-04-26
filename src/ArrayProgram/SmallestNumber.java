@@ -14,4 +14,8 @@ public class SmallestNumber {
 		}
 		System.out.println(ts.headSet(ts.last()));
 	}
+
+	public void m1() {
+		System.out.println("hi");
+	}
 }
