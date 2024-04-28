@@ -17,7 +17,7 @@ public class AverageArray {
 
 	public void m1() {
 		System.out.println("program sussfully complete");
-		System.out.println("Done");
+		System.out.println("Done`");
 	}
 
 }
